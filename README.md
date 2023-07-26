@@ -1,4 +1,4 @@
-# ios로 블루투스 연결하기 with Core Bluetooth
+# iOS로 블루투스 연결하기 with Core Bluetooth
 <br/>
 블루투스 검색 기능을 제공합니다!
 <br/>
